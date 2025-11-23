@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Pink Berry Dream Latte",
+    "description": "Um latte cremoso com infusão de frutas vermelhas e um toque de baunilha. Perfeito para um dia de conto de fadas.",
+    "price": 18.50,
+    "manufacturer": "Cafeteria Boiola",
+    "image": "https://via.placeholder.com/300x200?text=Pink+Latte",
+    "specifications": [
+      {"key": "Tamanho", "value": "350ml"},
+      {"key": "Ingredientes", "value": "Leite, café, xarope de frutas vermelhas, baunilha"},
+      {"key": "Alergênicos", "value": "Contém leite"}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Choux Cream Unicórnio",
+    "description": "Massa folhada recheada com um creme de baunilha e cores pastel. Doce, leve e mágico.",
+    "price": 12.00,
+    "manufacturer": "Pâtisserie Mágica",
+    "image": "https://via.placeholder.com/300x200?text=Choux+Cream",
+    "specifications": [
+      {"key": "Tamanho", "value": "Individual"},
+      {"key": "Ingredientes", "value": "Farinha, ovos, manteiga, açúcar, creme de leite"},
+      {"key": "Alergênicos", "value": "Contém glúten, ovos e leite"}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Rainbow Sprinkle Cookies",
+    "description": "Biscoitos amanteigados cobertos com granulado colorido. Alegria em cada mordida.",
+    "price": 8.00,
+    "manufacturer": "Sweet Factory",
+    "image": "https://via.placeholder.com/300x200?text=Cookies",
+    "specifications": [
+      {"key": "Quantidade", "value": "3 unidades"},
+      {"key": "Ingredientes", "value": "Farinha, açúcar, manteiga, granulado"},
+      {"key": "Alergênicos", "value": "Contém glúten e leite"}
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Matcha Moon Cake",
+    "description": "Um bolo de lua com sabor de Matcha e recheio de feijão doce. Exótico e delicado.",
+    "price": 25.00,
+    "manufacturer": "Asian Delights",
+    "image": "https://via.placeholder.com/300x200?text=Matcha+Cake",
+    "specifications": [
+      {"key": "Tamanho", "value": "Fatia"},
+      {"key": "Ingredientes", "value": "Matcha, farinha, açúcar, feijão doce"},
+      {"key": "Alergênicos", "value": "Contém glúten e pode conter nozes"}
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Royal Tea Set",
+    "description": "Chá preto premium com notas florais. Ideal para um *afternoon tea* chique.",
+    "price": 35.00,
+    "manufacturer": "Crown Teas",
+    "image": "https://via.placeholder.com/300x200?text=Tea+Set",
+    "specifications": [
+      {"key": "Peso", "value": "100g"},
+      {"key": "Tipo", "value": "Chá preto aromatizado"},
+      {"key": "Preparo", "value": "Infusão por 5 minutos"}
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Macaron Garden",
+    "description": "Uma caixa com 6 macarons de sabores variados (lavanda, rosa, pistache).",
+    "price": 28.00,
+    "manufacturer": "Le Bonbon",
+    "image": "https://via.placeholder.com/300x200?text=Macaron",
+    "specifications": [
+      {"key": "Quantidade", "value": "6 unidades"},
+      {"key": "Ingredientes", "value": "Amêndoas, açúcar, clara de ovo, corantes naturais"},
+      {"key": "Alergênicos", "value": "Contém nozes e ovos"}
+    ]
+  }
+]

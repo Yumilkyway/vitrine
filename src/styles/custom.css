@@ -1,0 +1,49 @@
+/* custom.css */
+body {
+    font-family: 'Arial', sans-serif; 
+    background-color: #FFF9F9; 
+}
+
+.navbar, .footer {
+    background-color: #FFC0CB !important; 
+    border-bottom: 2px solid #D8BFD8; 
+}
+
+.nav-link, .footer a {
+    color: #4B0082 !important; 
+    font-weight: bold;
+}
+
+.nav-link:hover, .footer a:hover {
+    color: #8A2BE2 !important; 
+}
+
+
+h1, h2, h3 {
+    color: #8A2BE2; 
+    text-shadow: 1px 1px 2px #FFC0CB;
+}
+
+.product-card {
+    border: 1px solid #D8BFD8;
+    border-radius: 15px;
+    transition: transform 0.2s;
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 10px rgba(255, 192, 203, 0.6); 
+    cursor: pointer;
+}
+
+.detail-container {
+    padding: 15px;
+}
+
+@media (min-width: 768px) {
+    .detail-container {
+        padding: 50px;
+    }
+}
