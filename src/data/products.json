@@ -5,7 +5,7 @@
     "description": "Um latte cremoso com infusão de frutas vermelhas e um toque de baunilha. Perfeito para um dia de conto de fadas.",
     "price": 18.50,
     "manufacturer": "Cafeteria Boiola",
-    "image": "https://via.placeholder.com/300x200?text=Pink+Latte",
+    "image": "https://images.unsplash.com/photo-1657763889381-befa1a547b3f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "specifications": [
       {"key": "Tamanho", "value": "350ml"},
       {"key": "Ingredientes", "value": "Leite, café, xarope de frutas vermelhas, baunilha"},
@@ -18,7 +18,7 @@
     "description": "Massa folhada recheada com um creme de baunilha e cores pastel. Doce, leve e mágico.",
     "price": 12.00,
     "manufacturer": "Pâtisserie Mágica",
-    "image": "https://via.placeholder.com/300x200?text=Choux+Cream",
+    "image": "https://images.unsplash.com/photo-1589115582096-3650a6ed2484?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "specifications": [
       {"key": "Tamanho", "value": "Individual"},
       {"key": "Ingredientes", "value": "Farinha, ovos, manteiga, açúcar, creme de leite"},
@@ -31,7 +31,7 @@
     "description": "Biscoitos amanteigados cobertos com granulado colorido. Alegria em cada mordida.",
     "price": 8.00,
     "manufacturer": "Sweet Factory",
-    "image": "https://via.placeholder.com/300x200?text=Cookies",
+    "image": "https://plus.unsplash.com/premium_photo-1663853494640-4c55bb4ec7b3?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "specifications": [
       {"key": "Quantidade", "value": "3 unidades"},
       {"key": "Ingredientes", "value": "Farinha, açúcar, manteiga, granulado"},
@@ -44,7 +44,7 @@
     "description": "Um bolo de lua com sabor de Matcha e recheio de feijão doce. Exótico e delicado.",
     "price": 25.00,
     "manufacturer": "Asian Delights",
-    "image": "https://via.placeholder.com/300x200?text=Matcha+Cake",
+    "image": "https://images.unsplash.com/photo-1675955448687-468635f6bd09?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "specifications": [
       {"key": "Tamanho", "value": "Fatia"},
       {"key": "Ingredientes", "value": "Matcha, farinha, açúcar, feijão doce"},
@@ -54,10 +54,10 @@
   {
     "id": 5,
     "name": "Royal Tea Set",
-    "description": "Chá preto premium com notas florais. Ideal para um *afternoon tea* chique.",
+    "description": "Chá preto premium com notas florais. Ideal para um afternoon tea chique.",
     "price": 35.00,
     "manufacturer": "Crown Teas",
-    "image": "https://via.placeholder.com/300x200?text=Tea+Set",
+    "image": "https://images.unsplash.com/photo-1761580455654-09f0efb137cc?q=80&w=1016&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "specifications": [
       {"key": "Peso", "value": "100g"},
       {"key": "Tipo", "value": "Chá preto aromatizado"},
@@ -70,7 +70,7 @@
     "description": "Uma caixa com 6 macarons de sabores variados (lavanda, rosa, pistache).",
     "price": 28.00,
     "manufacturer": "Le Bonbon",
-    "image": "https://via.placeholder.com/300x200?text=Macaron",
+    "image": "https://images.unsplash.com/photo-1528975604071-b4dc52a2d18c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "specifications": [
       {"key": "Quantidade", "value": "6 unidades"},
       {"key": "Ingredientes", "value": "Amêndoas, açúcar, clara de ovo, corantes naturais"},
