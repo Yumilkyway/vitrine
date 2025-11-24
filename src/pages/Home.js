@@ -13,7 +13,7 @@ const Home = () => {
       <Header />
       <Container className="my-5 flex-grow-1">
         <h1 className="text-center mb-4">✨ Nossos Produtos Mágicos ✨</h1>
-        <h3 className="text-center mb-5 text-muted">Ofertas para um dia doce e *girlie*!</h3>
+        <h3 className="text-center mb-5 text-muted">Ofertas para um dia mais doce!</h3>
 
         {}
                 <Row xs={1} md={3} className="g-4"> 
@@ -28,5 +28,6 @@ const Home = () => {
     </div>
   );
 };
+
 
 export default Home;
